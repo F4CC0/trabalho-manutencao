@@ -1,4 +1,4 @@
-# Trabalho de Manutenção de Software: Código Limpo
+# Trabalho de Manutenção de Software
 
 **Disciplina:** Manutenção de Software
 **Professor:** Rodrigo Funabashi
@@ -57,9 +57,6 @@ refatorada pelo aluno, com orientação baseada no capítulo do livro.
 - O comportamento foi preservado: com o mesmo `entradas.txt`, as duas versões classificam
   todos os pacientes igual. As únicas diferenças na saída são as mensagens alteradas de
   propósito na premissa 4.
-- A premissa 6 corrigiu um bug real. Se o usuário digita letras na frequência cardíaca, a
-  versão `antes` entra em loop infinito, enquanto a versão `depois` mostra o erro e continua
-  funcionando.
 
 ## Como compilar e executar
 
