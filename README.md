@@ -32,8 +32,8 @@ real.
 | `antes/` | Código original, escrito com problemas de legibilidade de propósito. |
 | `depois/` | O mesmo programa refatorado segundo as seis premissas, com o `.clang-format` (guia de estilo) e o `entradas.txt` (entradas de teste). |
 
-A versão `antes` foi gerada com IA, com autorização do professor. A versão `depois` foi
-refatorada pelo aluno, passo a passo, com orientação de IA baseada no capítulo do livro.
+A versão `antes` foi gerada com IA. A versão `depois` foi
+refatorada pelo aluno, com orientação baseada no capítulo do livro.
 
 ## O que foi feito em cada premissa
 
